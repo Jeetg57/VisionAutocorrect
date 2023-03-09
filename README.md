@@ -1,3 +1,3 @@
 # VisionAutocorrect
 
-![Dataset Link](https://www.kaggle.com/datasets/jeetgohil/visionautocorrectdataset)
+[Click here](https://www.kaggle.com/datasets/jeetgohil/visionautocorrectdataset) to download dataset
